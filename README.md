@@ -24,7 +24,7 @@ populated, there's no need to use this system anymore.
 
 Check out the [food plugin](https://nightscout.github.io/nightscout/setup_variables/#food-custom-foods) to get more instructions on how to proceed from here.
 
-## Créditos
+## Credits
 
 * Manual de Contagem de Carboidratos para pessoas com diabetes is written and distributed by the Brazilian Diabetes Society https://diabetes.org.br/e-book/manual-de-contagem-de-carboidratos/
 * Nightscout is a Remote CGM developed by Nightscout Foundation. Source Code available at https://github.com/nightscout/cgm-remote-monitor and documenation at https://nightscout.github.io/
