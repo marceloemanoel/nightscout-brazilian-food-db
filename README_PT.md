@@ -29,3 +29,4 @@ para maiores informações em como prosseguir.
 ## Créditos
 
 * Manual de Contagem de Carboidratos para pessoas com diabetes é escrito e distribuído pela Sociedade Brasileira de Diabetes https://diabetes.org.br/e-book/manual-de-contagem-de-carboidratos/
+* Nightscout é um Monitor Remoto e Contínuo de Glicemia. Desenvolvido pela Nightscout Foundation. Código fonte disponível em https://github.com/nightscout/cgm-remote-monitor e documentação em https://nightscout.github.io/
