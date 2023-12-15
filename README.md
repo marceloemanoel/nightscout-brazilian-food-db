@@ -24,3 +24,6 @@ populated, there's no need to use this system anymore.
 
 Check out the [food plugin](https://nightscout.github.io/nightscout/setup_variables/#food-custom-foods) to get more instructions on how to proceed from here.
 
+## Créditos
+
+* Manual de Contagem de Carboidratos para pessoas com diabetes is written and distributed by the Brazilian Diabetes Society https://diabetes.org.br/e-book/manual-de-contagem-de-carboidratos/

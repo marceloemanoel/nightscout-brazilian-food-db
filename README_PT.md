@@ -26,3 +26,6 @@ Uma vez com o banco de dados populado, não há necessidade de executar o progra
 Verifique a documentação do [plugin food](https://nightscout.github.io/nightscout/setup_variables/#food-custom-foods) 
 para maiores informações em como prosseguir.
 
+## Créditos
+
+* Manual de Contagem de Carboidratos para pessoas com diabetes é escrito e distribuído pela Sociedade Brasileira de Diabetes https://diabetes.org.br/e-book/manual-de-contagem-de-carboidratos/
